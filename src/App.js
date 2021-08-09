@@ -24,7 +24,7 @@ function App() {
 	return (
 		<section class='page'>
 			<div className='top'>
-				<h1>Tabs</h1>
+				<h1>Experience</h1>
 				<div className='line'></div>
 			</div>
 			<div className='main'>

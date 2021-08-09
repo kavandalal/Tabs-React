@@ -5,7 +5,7 @@
 }
 :root {
 	--bg-clr: #deecff;
-	--pr-clr: #91e2b4;
+	--pr-clr: #4eac76;
 	--sec-clr: rgb(145, 143, 143);
 	--font-1-clr: #242424;
 	--font-2-clr: #4d4d4d;
@@ -47,6 +47,7 @@ body {
 	padding: 5px 30px;
 	width: 100%;
 	border-left: 2px solid black;
+	font-weight: bold;
 }
 
 .main .btn button:hover {
@@ -79,7 +80,7 @@ body {
 	font-size: 0.8em;
 }
 svg {
-	height: 50px;
-	width: 50px;
+	height: 35px;
+	width: 35px;
 	color: var(--font-3-clr);
 }
